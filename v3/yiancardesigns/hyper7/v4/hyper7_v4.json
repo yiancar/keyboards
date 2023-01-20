@@ -113,130 +113,337 @@
       "name": "H7 Diamond",
       "title": "H7 Diamond",
       "shortName": "H7_Diamond"
+    },
+    {
+      "name": "H7 Repeat",
+      "title": "H7 Repeat",
+      "shortName": "H7_Repeat"
+    },
+    {
+      "name": "H7 Transmit",
+      "title": "H7 Transmit",
+      "shortName": "H7_Tx"
+    },
+    {
+      "name": "H7 Status",
+      "title": "H7 Status",
+      "shortName": "H7_Status"
+    },
+    {
+      "name": "H7 Suspend",
+      "title": "H7 Suspend",
+      "shortName": "H7_Susp"
+    },
+    {
+      "name": "H7 Close",
+      "title": "H7 Close",
+      "shortName": "H7_Close"
+    },
+    {
+      "name": "H7 Open",
+      "title": "H7 Open",
+      "shortName": "H7_Open"
+    },
+    {
+      "name": "H7 Complete",
+      "title": "H7 Complete",
+      "shortName": "H7_Cmpl"
+    },
+    {
+      "name": "H7 Write",
+      "title": "H7 Write",
+      "shortName": "H7_Write"
+    },
+    {
+      "name": "H7 Double Quote",
+      "title": "H7 Double Quote",
+      "shortName": "H7_DQPM"
+    },
+    {
+      "name": "H7 Colon",
+      "title": "H7 Colon",
+      "shortName": "H7_CT"
+    },
+    {
+      "name": "H7 Left Brace",
+      "title": "H7 Left Brace",
+      "shortName": "H7_LBLC"
+    },
+    {
+      "name": "H7 Right Brace",
+      "title": "H7 Right Brace",
+      "shortName": "H7_RBRC"
+    },
+    {
+      "name": "H7 Mark",
+      "title": "H7 Mark",
+      "shortName": "H7_Mark"
+    },
+    {
+      "name": "H7 (",
+      "title": "H7 (",
+      "shortName": "H7 ("
+    },
+    {
+      "name": "H7 )",
+      "title": "H7 )",
+      "shortName": "H7 )"
+    },
+    {
+      "name": "H7 Select",
+      "title": "H7 Select",
+      "shortName": "H7_Select"
+    },
+    {
+      "name": "H7 Debug",
+      "title": "H7 Debug",
+      "shortName": "H7_Dbg"
+    },
+    {
+      "name": "H7 Semi Colon",
+      "title": "H7 Semi Colon",
+      "shortName": "H7 ;"
+    },
+    {
+      "name": "H7 Tick",
+      "title": "H7 Tick",
+      "shortName": "H7_TQ"
+    },
+    {
+      "name": "H7 Line",
+      "title": "H7 Line",
+      "shortName": "H7_Line"
+    },
+    {
+      "name": "H7 Page",
+      "title": "H7 Page",
+      "shortName": "H7_Page"
+    },
+    {
+      "name": "H7 TTY",
+      "title": "H7 TTY",
+      "shortName": "H7_TTY"
+    },
+    {
+      "name": "H7 Lock",
+      "title": "H7 Lock",
+      "shortName": "H7_Lock"
+    },
+    {
+      "name": "H7 EOF",
+      "title": "H7 EOF",
+      "shortName": "H7_EOF"
+    },
+    {
+      "name": "H7 7Bit",
+      "title": "H7 7Bit",
+      "shortName": "H7_7Bit"
+    },
+    {
+      "name": "H7 Circle SM",
+      "title": "H7 Cicle SM",
+      "shortName": "H7_CSM"
     }
   ],
   "layouts": {
+    "labels": [
+      "Split 2Us"
+    ],
     "keymap": [
       [
         {
           "c": "#aaaaaa",
           "w": 2
         },
-        "0,0",
+        "0,0\n\n\n0,0",
         {
           "w": 2
         },
-        "0,2",
-        {
-          "x": 0.5,
-          "w": 2
-        },
-        "0,4",
-        {
-          "w": 2
-        },
-        "0,6",
-        {
-          "w": 2
-        },
-        "0,8",
-        {
-          "w": 2
-        },
-        "0,10",
-        {
-          "w": 2
-        },
-        "0,12",
-        {
-          "w": 2
-        },
-        "0,14",
-        {
-          "w": 2
-        },
-        "0,16",
-        {
-          "w": 2
-        },
-        "0,18",
-        {
-          "w": 2
-        },
-        "0,20",
-        {
-          "w": 2
-        },
-        "0,22",
+        "0,2\n\n\n0,0",
         {
           "x": 0.5,
           "w": 2
         },
-        "0,24",
+        "0,4\n\n\n0,0",
         {
           "w": 2
         },
-        "0,26"
+        "0,6\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,8\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,10\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,12\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,14\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,16\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,18\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,20\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,22\n\n\n0,0",
+        {
+          "x": 0.5,
+          "w": 2
+        },
+        "0,24\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "0,26\n\n\n0,0",
+        {
+          "x": 0.5
+        },
+        "0,0\n\n\n0,1",
+        "0,1\n\n\n0,1",
+        "0,2\n\n\n0,1",
+        "0,3\n\n\n0,1",
+        {
+          "x": 0.5
+        },
+        "0,4\n\n\n0,1",
+        "0,5\n\n\n0,1",
+        "0,6\n\n\n0,1",
+        "0,7\n\n\n0,1",
+        "0,8\n\n\n0,1",
+        "0,9\n\n\n0,1",
+        "0,10\n\n\n0,1",
+        "0,11\n\n\n0,1",
+        "0,12\n\n\n0,1",
+        "0,13\n\n\n0,1",
+        "0,14\n\n\n0,1",
+        "0,15\n\n\n0,1",
+        "0,16\n\n\n0,1",
+        "0,17\n\n\n0,1",
+        "0,18\n\n\n0,1",
+        "0,19\n\n\n0,1",
+        "0,20\n\n\n0,1",
+        "0,21\n\n\n0,1",
+        "0,22\n\n\n0,1",
+        "0,23\n\n\n0,1",
+        {
+          "x": 0.5
+        },
+        "0,24\n\n\n0,1",
+        "0,25\n\n\n0,1",
+        "0,26\n\n\n0,1",
+        "0,27\n\n\n0,1"
       ],
       [
         {
           "w": 2
         },
-        "1,0",
+        "1,0\n\n\n0,0",
         {
           "w": 2
         },
-        "1,2",
-        {
-          "x": 0.5,
-          "w": 2
-        },
-        "1,4",
-        {
-          "w": 2
-        },
-        "1,6",
-        {
-          "w": 2
-        },
-        "1,8",
-        {
-          "w": 2
-        },
-        "1,10",
-        {
-          "w": 2
-        },
-        "1,12",
-        {
-          "w": 2
-        },
-        "1,14",
-        {
-          "w": 2
-        },
-        "1,16",
-        {
-          "w": 2
-        },
-        "1,18",
-        {
-          "w": 2
-        },
-        "1,20",
-        {
-          "w": 2
-        },
-        "1,22",
+        "1,2\n\n\n0,0",
         {
           "x": 0.5,
           "w": 2
         },
-        "1,24",
+        "1,4\n\n\n0,0",
         {
           "w": 2
         },
-        "1,26"
+        "1,6\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,8\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,10\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,12\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,14\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,16\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,18\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,20\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,22\n\n\n0,0",
+        {
+          "x": 0.5,
+          "w": 2
+        },
+        "1,24\n\n\n0,0",
+        {
+          "w": 2
+        },
+        "1,26\n\n\n0,0",
+        {
+          "x": 0.5
+        },
+        "1,0\n\n\n0,1",
+        "1,1\n\n\n0,1",
+        "1,2\n\n\n0,1",
+        "1,3\n\n\n0,1",
+        {
+          "x": 0.5
+        },
+        "1,4\n\n\n0,1",
+        "1,5\n\n\n0,1",
+        "1,6\n\n\n0,1",
+        "1,7\n\n\n0,1",
+        "1,8\n\n\n0,1",
+        "1,9\n\n\n0,1",
+        "1,10\n\n\n0,1",
+        "1,11\n\n\n0,1",
+        "1,12\n\n\n0,1",
+        "1,13\n\n\n0,1",
+        "1,14\n\n\n0,1",
+        "1,15\n\n\n0,1",
+        "1,16\n\n\n0,1",
+        "1,17\n\n\n0,1",
+        "1,18\n\n\n0,1",
+        "1,19\n\n\n0,1",
+        "1,20\n\n\n0,1",
+        "1,21\n\n\n0,1",
+        "1,22\n\n\n0,1",
+        "1,23\n\n\n0,1",
+        {
+          "x": 0.5
+        },
+        "1,24\n\n\n0,1",
+        "1,25\n\n\n0,1",
+        "1,26\n\n\n0,1",
+        "1,27\n\n\n0,1"
       ],
       [
         {
@@ -251,7 +458,7 @@
           "c": "#aaaaaa",
           "w": 2
         },
-        "2,4",
+        "2,4\n\n\n0,0",
         {
           "c": "#cccccc"
         },
@@ -275,7 +482,7 @@
           "c": "#aaaaaa",
           "w": 2
         },
-        "2,22",
+        "2,22\n\n\n0,0",
         {
           "x": 0.5,
           "c": "#cccccc"
@@ -283,11 +490,23 @@
         "2,24",
         "2,25",
         "2,26",
-        "2,27"
+        "2,27",
+        {
+          "x": 5,
+          "c": "#aaaaaa"
+        },
+        "2,4\n\n\n0,1",
+        "2,5\n\n\n0,1",
+        {
+          "x": 16
+        },
+        "2,22\n\n\n0,1",
+        "2,23\n\n\n0,1"
       ],
       [
         {
-          "y": 0.5
+          "y": 0.5,
+          "c": "#cccccc"
         },
         "3,0",
         "3,1",
