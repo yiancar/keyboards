@@ -7,177 +7,177 @@
     {
       "name": "H7 Help",
       "title": "H7 Help",
-      "shortName": "H7_Help"
+      "shortName": "H7 Help"
     },
     {
       "name": "H7 Macro",
       "title": "H7 Macro",
-      "shortName": "H7_Macro"
+      "shortName": "H7 Macro"
     },
     {
       "name": "H7 Terminal",
       "title": "H7 Terminal",
-      "shortName": "H7_Term"
+      "shortName": "H7 Term"
     },
     {
       "name": "H7 Quote",
       "title": "H7 Quote",
-      "shortName": "H7_Quote"
+      "shortName": "H7 Quote"
     },
     {
       "name": "H7 Overstrike",
       "title": "H7 Overstrike",
-      "shortName": "H7_Ovrstke"
+      "shortName": "H7 Ovrstke"
     },
     {
       "name": "H7 Clear Input",
       "title": "H7 Clear Input",
-      "shortName": "H7_Clr_Inpt"
+      "shortName": "H7 Clr Inpt"
     },
     {
       "name": "H7 Clear Screen",
       "title": "H7 Clear Screen",
-      "shortName": "H7_Clr_Scrn"
+      "shortName": "H7 Clr Scrn"
     },
     {
       "name": "H7 Hold Output",
       "title": "H7 Hold Output",
-      "shortName": "H7_Hld_Opt"
+      "shortName": "H7 Hld Opt"
     },
     {
       "name": "H7 Stop Output",
       "title": "H7 Stop Output",
-      "shortName": "H7_Stp_Opt"
+      "shortName": "H7 Stp Opt"
     },
     {
       "name": "H7 Abort",
       "title": "H7 Abort",
-      "shortName": "H7_Abort"
+      "shortName": "H7 Abort"
     },
     {
       "name": "H7 Break",
       "title": "H7 Break",
-      "shortName": "H7_Break"
+      "shortName": "H7 Break"
     },
     {
       "name": "H7 Resume",
       "title": "H7 Resume",
-      "shortName": "H7_Resume"
+      "shortName": "H7 Resume"
     },
     {
       "name": "H7 Call",
       "title": "H7 Call",
-      "shortName": "H7_Call"
+      "shortName": "H7 Call"
     },
     {
       "name": "H7 Local",
       "title": "H7 Local",
-      "shortName": "H7_Local"
+      "shortName": "H7 Local"
     },
     {
       "name": "H7 Network",
       "title": "H7 Network",
-      "shortName": "H7_Network"
+      "shortName": "H7 Network"
     },
     {
       "name": "H7 System",
       "title": "H7 System",
-      "shortName": "H7_Sys"
+      "shortName": "H7 Sys"
     },
     {
       "name": "H7 Refresh",
       "title": "H7 Refresh",
-      "shortName": "H7_Rfrsh"
+      "shortName": "H7 Rfrsh"
     },
     {
       "name": "H7 Buffer",
       "title": "H7 Buffer",
-      "shortName": "H7_Buf"
+      "shortName": "H7 Buf"
     },
     {
       "name": "H7 Square",
       "title": "H7 Square",
-      "shortName": "H7_Sqr"
+      "shortName": "H7 Sqr"
     },
     {
       "name": "H7 Circle",
       "title": "H7 Circle",
-      "shortName": "H7_Circle"
+      "shortName": "H7 Circle"
     },
     {
       "name": "H7 Triangle",
       "title": "H7 Triangle",
-      "shortName": "H7_Trngl"
+      "shortName": "H7 Trngl"
     },
     {
       "name": "H7 Diamond",
       "title": "H7 Diamond",
-      "shortName": "H7_Diamond"
+      "shortName": "H7 Diamond"
     },
     {
       "name": "H7 Repeat",
       "title": "H7 Repeat",
-      "shortName": "H7_Repeat"
+      "shortName": "H7 Repeat"
     },
     {
       "name": "H7 Transmit",
       "title": "H7 Transmit",
-      "shortName": "H7_Tx"
+      "shortName": "H7 Tx"
     },
     {
       "name": "H7 Status",
       "title": "H7 Status",
-      "shortName": "H7_Status"
+      "shortName": "H7 Status"
     },
     {
       "name": "H7 Suspend",
       "title": "H7 Suspend",
-      "shortName": "H7_Susp"
+      "shortName": "H7 Susp"
     },
     {
       "name": "H7 Close",
       "title": "H7 Close",
-      "shortName": "H7_Close"
+      "shortName": "H7 Close"
     },
     {
       "name": "H7 Open",
       "title": "H7 Open",
-      "shortName": "H7_Open"
+      "shortName": "H7 Open"
     },
     {
       "name": "H7 Complete",
       "title": "H7 Complete",
-      "shortName": "H7_Cmpl"
+      "shortName": "H7 Cmpl"
     },
     {
       "name": "H7 Write",
       "title": "H7 Write",
-      "shortName": "H7_Write"
+      "shortName": "H7 Write"
     },
     {
       "name": "H7 Double Quote",
       "title": "H7 Double Quote",
-      "shortName": "H7_DQPM"
+      "shortName": "H7 DQPM"
     },
     {
       "name": "H7 Colon",
       "title": "H7 Colon",
-      "shortName": "H7_CT"
+      "shortName": "H7 CT"
     },
     {
       "name": "H7 Left Brace",
       "title": "H7 Left Brace",
-      "shortName": "H7_LBLC"
+      "shortName": "H7 LBLC"
     },
     {
       "name": "H7 Right Brace",
       "title": "H7 Right Brace",
-      "shortName": "H7_RBRC"
+      "shortName": "H7 RBRC"
     },
     {
       "name": "H7 Mark",
       "title": "H7 Mark",
-      "shortName": "H7_Mark"
+      "shortName": "H7 Mark"
     },
     {
       "name": "H7 (",
@@ -192,12 +192,12 @@
     {
       "name": "H7 Select",
       "title": "H7 Select",
-      "shortName": "H7_Select"
+      "shortName": "H7 Select"
     },
     {
       "name": "H7 Debug",
       "title": "H7 Debug",
-      "shortName": "H7_Dbg"
+      "shortName": "H7 Dbg"
     },
     {
       "name": "H7 Semi Colon",
@@ -207,37 +207,37 @@
     {
       "name": "H7 Tick",
       "title": "H7 Tick",
-      "shortName": "H7_TQ"
+      "shortName": "H7 TQ"
     },
     {
       "name": "H7 Line",
       "title": "H7 Line",
-      "shortName": "H7_Line"
+      "shortName": "H7 Line"
     },
     {
       "name": "H7 Page",
       "title": "H7 Page",
-      "shortName": "H7_Page"
+      "shortName": "H7 Page"
     },
     {
       "name": "H7 TTY",
       "title": "H7 TTY",
-      "shortName": "H7_TTY"
+      "shortName": "H7 TTY"
     },
     {
       "name": "H7 Lock",
       "title": "H7 Lock",
-      "shortName": "H7_Lock"
+      "shortName": "H7 Lock"
     },
     {
       "name": "H7 EOF",
       "title": "H7 EOF",
-      "shortName": "H7_EOF"
+      "shortName": "H7 EOF"
     },
     {
       "name": "H7 7Bit",
       "title": "H7 7Bit",
-      "shortName": "H7_7Bit"
+      "shortName": "H7 7Bit"
     },
     {
       "name": "H7 Circle SM",
