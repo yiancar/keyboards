@@ -1,11 +1,17 @@
 {
-  "name": "Keycult 65",
+  "name": "Float 65",
   "vendorId": "0x8968",
-  "productId": "0x6335",
+  "productId": "0x5334",
   "matrix": {
     "rows": 5,
     "cols": 15
   },
+  "keycodes": [
+    "qmk_lighting"
+  ],
+  "menus": [
+    "qmk_rgblight"
+  ],
   "layouts": {
     "labels": [
       "Split Backspace",
