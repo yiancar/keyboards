@@ -2,9 +2,16 @@
   "name": "PAL",
   "vendorId": "0x8968",
   "productId": "0x4549",
-  "keycodes": ["qmk_lighting"],
-  "menus": ["qmk_rgblight"],
-  "matrix": {"rows": 5, "cols": 14},
+  "matrix": {
+    "rows": 5,
+     "cols": 14
+  },
+  "keycodes": [
+    "qmk_rgblight_keycodes"
+  ],
+  "menus": [
+    "qmk_rgblight"
+  ],
   "layouts": {
     "labels": [
       "Split Backspace",
